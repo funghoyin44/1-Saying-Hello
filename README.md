@@ -1,5 +1,5 @@
 # Saying-Hello
-Create a program to say hello with vary name. There is some example to show how to use concatenation and string formating (%s)
+Create a program to say hello with vary name. There is some example to show how to use concatenation and format string (%s)
 
 #Concatenation
 #String Formating
